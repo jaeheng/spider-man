@@ -5,7 +5,7 @@ nodejs， 爬一个网站，获取图片链接
 
 ## 使用方式
 
-  npm install
-  node index.js
+    npm install
+    node index.js
   
 thank you!
